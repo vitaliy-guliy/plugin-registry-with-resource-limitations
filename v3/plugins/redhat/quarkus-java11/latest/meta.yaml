@@ -20,6 +20,9 @@ spec:
       memoryLimit: 1500Mi
       cpuRequest: 200m
       cpuLimit: 500m
+      env:
+        - name: CPU_LIMITS
+          value: 'set'
   extensions:
     - https://download.jboss.org/jbosstools/vscode/stable/vscode-quarkus/vscode-quarkus-1.7.0-437.vsix
     - https://download.jboss.org/jbosstools/static/jdt.ls/stable/java-0.63.0-2222.vsix
