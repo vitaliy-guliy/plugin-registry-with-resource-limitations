@@ -1,0 +1,27 @@
+apiVersion: v2
+publisher: broadcommfd
+name: debugger-for-mainframe
+version: latest
+type: VS Code extension
+displayName: Debugger for Mainframe
+title: Debugger for Mainframe
+description: Provides a modern debugging experience for COBOL applications running
+  in a CICS region.
+icon: /v3/images/broadcommfd-debugger-for-mainframe-icon.png
+category: Debuggers
+repository: https://github.com/BroadcomMFD/debugger-for-mainframe
+firstPublicationDate: '2020-08-20'
+deprecate:
+  automigrate: true
+  migrateTo: broadcommfd/debugger-for-mainframe/1.2.0/latest
+spec:
+  containers:
+    - image: quay.io/eclipse/che-plugin-sidecar:java-b8f0528
+      name: debugger-for-mainframe
+      memoryLimit: 512Mi
+      cpuRequest: 200m
+      cpuLimit: 500m
+      mountSources: true
+  extensions:
+    - https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.2.0/file/BroadcomMFD.debugger-for-mainframe-1.2.0.vsix
+latestUpdateDate: "2020-12-23"

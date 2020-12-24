@@ -1,0 +1,22 @@
+apiVersion: v2
+publisher: redhat
+name: vscode-yaml
+version: latest
+type: VS Code extension
+displayName: YAML
+title: YAML
+description: YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+icon: /v3/images/redhat-vscode-yaml-icon.png
+category: Programming Languages
+repository: https://github.com/redhat-developer/vscode-yaml
+firstPublicationDate: '2020-10-20'
+spec:
+  containers:
+    - image: quay.io/eclipse/che-plugin-sidecar:node-c939ba4
+      name: vscode-yaml
+      memoryLimit: 256Mi
+      cpuRequest: 200m
+      cpuLimit: 500m
+  extensions:
+    - https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-yaml/vscode-yaml-0.11.1.vsix
+latestUpdateDate: "2020-12-23"
