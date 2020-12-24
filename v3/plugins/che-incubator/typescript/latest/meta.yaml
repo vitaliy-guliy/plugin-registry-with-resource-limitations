@@ -19,6 +19,9 @@ spec:
       memoryLimit: 512Mi
       cpuRequest: 200m
       cpuLimit: 500m
+      env:
+        - name: CPU_LIMITS
+          value: 'set'
   extensions:
     - https://open-vsx.org/api/vscode/typescript-language-features/1.49.3/file/vscode.typescript-language-features-1.49.3.vsix
 latestUpdateDate: "2020-12-23"
