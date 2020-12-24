@@ -22,4 +22,4 @@ spec:
       cpuLimit: 500m
   extensions:
     - 'https://github.com/vuejs/vetur/releases/download/v0.26.1/vetur-0.26.1.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

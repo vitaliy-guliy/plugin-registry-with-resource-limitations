@@ -31,4 +31,4 @@ spec:
         - /go/bin/che-machine-exec
         - --url
         - 127.0.0.1:4444
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

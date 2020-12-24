@@ -22,4 +22,4 @@ spec:
       cpuLimit: 500m
   extensions:
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-proto3/vscode-proto3-0.4.2-c4d9ee.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

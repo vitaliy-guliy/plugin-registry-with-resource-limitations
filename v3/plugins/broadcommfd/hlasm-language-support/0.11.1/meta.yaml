@@ -14,4 +14,4 @@ spec:
   extensions:
     - >-
       https://github.com/eclipse/che-che4z-lsp-for-hlasm/releases/download/0.11.1/hlasm-language-support-0.11.1-alpine.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

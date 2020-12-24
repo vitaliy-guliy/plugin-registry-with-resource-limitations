@@ -26,4 +26,4 @@ spec:
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-yaml/vscode-yaml-0.8.0.vsix'
     - >-
       https://github.com/che-incubator/che-theia-openshift-auth/releases/download/0.0.1/che-openshift-authentication-plugin-0.0.1.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

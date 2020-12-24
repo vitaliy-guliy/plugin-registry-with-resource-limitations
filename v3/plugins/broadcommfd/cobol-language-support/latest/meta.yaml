@@ -23,4 +23,4 @@ spec:
       mountSources: true
   extensions:
     - https://open-vsx.org/api/BroadcomMFD/cobol-language-support/0.16.1/file/BroadcomMFD.cobol-language-support-0.16.1.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

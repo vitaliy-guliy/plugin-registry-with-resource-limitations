@@ -22,4 +22,4 @@ spec:
       cpuLimit: 500m
   extensions:
     - 'https://github.com/redhat-developer/omnisharp-theia-plugin/releases/download/v0.0.6/omnisharp_theia_plugin.theia'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

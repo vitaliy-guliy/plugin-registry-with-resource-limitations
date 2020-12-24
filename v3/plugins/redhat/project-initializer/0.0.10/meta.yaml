@@ -13,4 +13,4 @@ firstPublicationDate: '2020-01-23'
 spec:
   extensions:
     - 'https://download.jboss.org/jbosstools/vscode/stable/vscode-project-initializer/project-initializer-0.0.10-582.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

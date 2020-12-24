@@ -13,4 +13,4 @@ firstPublicationDate: '2020-11-20'
 spec:
   extensions:
     - 'https://open-vsx.org/api/esbenp/prettier-vscode/5.8.0/file/esbenp.prettier-vscode-5.8.0.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

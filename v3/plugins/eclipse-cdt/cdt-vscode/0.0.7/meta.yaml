@@ -21,4 +21,4 @@ spec:
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/cdt-vscode/cdt-vscode-0.0.7-75cf95.vsix'
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/cdt-gdb-vscode/cdt-gdb-vscode-0.0.91-2cbbb8.vsix'
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-clangd/vscode-clangd-0.1.5-562d00.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

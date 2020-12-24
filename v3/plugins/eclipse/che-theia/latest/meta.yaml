@@ -101,4 +101,4 @@ spec:
           value: /remote-endpoint/plugin-remote-endpoint
         - name: REMOTE_ENDPOINT_VOLUME_NAME
           value: remote-endpoint
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

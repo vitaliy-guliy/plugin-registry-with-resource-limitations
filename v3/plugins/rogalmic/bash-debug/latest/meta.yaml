@@ -13,4 +13,4 @@ firstPublicationDate: '2020-06-15'
 spec:
   extensions:
     - https://open-vsx.org/api/rogalmic/bash-debug/0.3.9/file/rogalmic.bash-debug-0.3.9.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

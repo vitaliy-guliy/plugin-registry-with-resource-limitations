@@ -20,4 +20,4 @@ spec:
   extensions:
     - 'https://open-vsx.org/api/ms-vscode/node-debug2/1.42.5/file/ms-vscode.node-debug2-1.42.5.vsix'
     - 'https://open-vsx.org/api/ms-vscode/node-debug/1.44.8/file/ms-vscode.node-debug-1.44.8.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

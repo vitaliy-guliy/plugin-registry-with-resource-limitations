@@ -28,4 +28,4 @@ spec:
       ports:
         - exposedPort: 8888
       memoryLimit: 512M
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

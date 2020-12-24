@@ -28,4 +28,4 @@ spec:
       volumes:
         - mountPath: /home/coder/.local/share/code-server
           name: user-data
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

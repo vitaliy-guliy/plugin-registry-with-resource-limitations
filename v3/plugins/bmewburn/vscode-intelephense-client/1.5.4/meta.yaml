@@ -18,4 +18,4 @@ spec:
       cpuLimit: 500m
   extensions:
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-intelephense/vscode-intelephense-client-1.5.4.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

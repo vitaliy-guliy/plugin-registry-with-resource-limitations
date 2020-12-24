@@ -770,6 +770,38 @@
   {
     "deprecate": {
       "automigrate": true,
+      "migrateTo": "felixfbecker/php-debug/latest"
+    },
+    "description": "Debug support for PHP with XDebug",
+    "displayName": "PHP Debug",
+    "id": "felixfbecker/vscode-php-debug/1.13.0",
+    "links": {
+      "self": "/v3/plugins/felixfbecker/vscode-php-debug/1.13.0/"
+    },
+    "name": "vscode-php-debug",
+    "publisher": "felixfbecker",
+    "type": "VS Code extension",
+    "version": "1.13.0"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "felixfbecker/php-debug/latest"
+    },
+    "description": "Debug support for PHP with XDebug",
+    "displayName": "PHP Debug",
+    "id": "felixfbecker/vscode-php-debug/latest",
+    "links": {
+      "self": "/v3/plugins/felixfbecker/vscode-php-debug/latest/"
+    },
+    "name": "vscode-php-debug",
+    "publisher": "felixfbecker",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
       "migrateTo": "dart-code/dart-code/latest"
     },
     "description": "Dart language support and debugger for Visual Studio Code.",

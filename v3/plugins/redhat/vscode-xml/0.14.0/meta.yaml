@@ -20,4 +20,4 @@ spec:
   extensions:
     - >-
       https://github.com/redhat-developer/codeready-workspaces-vscode-extensions/releases/download/v356aec7/vscode-xml-0.14.0.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

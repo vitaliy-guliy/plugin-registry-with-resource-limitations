@@ -21,4 +21,4 @@ spec:
           mountPath: /home/user/.local/share/buildkit
         - name: buildkit-lib
           mountPath: /var/lib/buildkit
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

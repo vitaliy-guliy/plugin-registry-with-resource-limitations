@@ -16,4 +16,4 @@ spec:
      image: "quay.io/eclipse/che-buildah-base:1.14.0-b0c91d3"
      mountSources: true
      memoryLimit: "1Gi"
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

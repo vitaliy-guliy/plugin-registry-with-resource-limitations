@@ -16,4 +16,4 @@ deprecate:
 spec:
   extensions:
     - https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.10.2/file/mads-hartmann.bash-ide-vscode-1.10.2.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

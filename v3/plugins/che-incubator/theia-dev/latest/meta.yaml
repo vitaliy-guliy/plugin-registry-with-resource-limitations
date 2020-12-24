@@ -30,4 +30,4 @@ spec:
       ports:
         - exposedPort: 3010
       memoryLimit: 2Gi
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

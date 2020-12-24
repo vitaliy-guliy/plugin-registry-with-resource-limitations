@@ -21,4 +21,4 @@ spec:
     - 'https://github.com/dart-code/flutter/releases/download/v3.14.1/flutter-3.14.1.vsix'
     - 'https://github.com/gattytto/dart-code/releases/download/v3.15.0-che/dart-code-3.15.0-dev-realpathSync.vsix'
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-yaml/vscode-yaml-0.8.0.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

@@ -23,4 +23,4 @@ spec:
       cpuLimit: 500m
   extensions:
     - https://github.com/pizzafactory-contorno/vscode-libra-move/releases/download/v0.0.10-ddc0d3d/vscode-libra-move-0.0.10.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

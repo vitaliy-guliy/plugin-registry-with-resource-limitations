@@ -18,4 +18,4 @@ spec:
       cpuLimit: 500m
   extensions:
     - https://download.jboss.org/jbosstools/vscode/stable/vscode-wsdl2rest/vscode-wsdl2rest-0.0.11-106.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

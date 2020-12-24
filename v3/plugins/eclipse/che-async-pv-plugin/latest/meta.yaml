@@ -39,4 +39,4 @@ spec:
       env:
         - name: RSYNC_PORT
           value: '2222'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

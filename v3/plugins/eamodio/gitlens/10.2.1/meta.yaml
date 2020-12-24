@@ -16,4 +16,4 @@ firstPublicationDate: '2020-05-26'
 spec:
   extensions:
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-gitlens/gitlens-10.2.1.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

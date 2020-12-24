@@ -27,4 +27,4 @@ spec:
   extensions:
     - 'https://github.com/scalameta/metals-vscode/releases/download/v1.9.6/scalameta.metals-1.9.6.vsix'
     - 'https://github.com/scala/vscode-scala-syntax/releases/download/0.4.5/scala-lang.scala-0.4.5.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

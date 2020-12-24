@@ -22,4 +22,4 @@ spec:
   extensions:
     - >-
       https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension/releases/download/0.2.1/fabric8-analytics-0.2.1.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

@@ -31,4 +31,4 @@ spec:
       ports:
         - exposedPort: 8080
       memoryLimit: 2048M
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

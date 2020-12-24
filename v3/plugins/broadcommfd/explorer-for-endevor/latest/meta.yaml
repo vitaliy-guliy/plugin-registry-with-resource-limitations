@@ -13,4 +13,4 @@ firstPublicationDate: '2020-11-13'
 spec:
   extensions:
     - https://github.com/eclipse/che-che4z-explorer-for-endevor/releases/download/0.11.0/explorer-for-endevor-0.11.0.vsix
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"

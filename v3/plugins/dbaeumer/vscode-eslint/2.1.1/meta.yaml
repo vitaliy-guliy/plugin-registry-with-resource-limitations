@@ -13,4 +13,4 @@ firstPublicationDate: '2020-11-18'
 spec:
   extensions:
     - 'https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-eslint/vscode-eslint-2.1.1-1e15d3.vsix'
-latestUpdateDate: "2020-12-23"
+latestUpdateDate: "2020-12-24"
